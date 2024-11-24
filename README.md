@@ -1,1 +1,3 @@
-# javascript-testes
+# Treinando alguns fundamentos de javascript
+
+## Promise
