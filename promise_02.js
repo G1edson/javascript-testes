@@ -1,6 +1,5 @@
 const primeiroElemento = arrayOuString => arrayOuString[0]
 
-
 const promessa = new Promise(resolve => {
     resolve(['Ana', 'Bia', 'Carlos', 'Daniel'])
 })
